@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Why Every Product Manager Should Understand Engineering",
+    "summary": "A deep dive into why technical literacy is crucial for product managers.",
+    "category": "Product Management",
+    "date": "2024-05-10",
+    "image": "https://via.placeholder.com/400x200?text=Product+Management",
+    "link": "https://medium.com/@atuldeepyadav/why-every-product-manager-should-understand-engineering-df1a617c6d09"
+  },
+  {
+    "title": "Lessons from Leading Digital Transformation in Infra Projects",
+    "summary": "Key takeaways from implementing digital solutions in large infrastructure projects.",
+    "category": "Digital Transformation",
+    "date": "2023-11-22",
+    "image": "https://via.placeholder.com/400x200?text=Digital+Infra",
+    "link": "https://medium.com/@atuldeepyadav/lessons-from-leading-digital-implementation-in-infra-56ff3ab44bc6"
+  },
+  {
+    "title": "Getting Started with AI Chatbots",
+    "summary": "A beginner's guide to building and deploying AI chatbots.",
+    "category": "AI",
+    "date": "2024-01-15",
+    "image": "https://via.placeholder.com/400x200?text=AI+Chatbot",
+    "link": "https://yourblog.com/ai-chatbots"
+  },
+  {
+    "title": "Robotics for Everyone",
+    "summary": "How robotics is becoming accessible and what you can build today.",
+    "category": "Robotics",
+    "date": "2022-09-05",
+    "image": "https://via.placeholder.com/400x200?text=Robotics",
+    "link": "https://yourblog.com/robotics-for-everyone"
+  }
+]

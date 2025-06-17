@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.body-main {
+  transition: background 0.4s, color 0.4s;
+}
+
+.card {
+  border-radius: 1rem !important;
+}
+
+.card-title {
+  letter-spacing: -0.5px;
+}
+
+a.link-info {
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+a.link-info:hover {
+  color: #0dcaf0 !important;
+}
+
+@media (max-width: 576px) {
+  .body-main {
+    padding: 1rem !important;
+  }
+  .card {
+    padding: 0.5rem;
+  }
+}

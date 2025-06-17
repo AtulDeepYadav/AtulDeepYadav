@@ -1,0 +1,47 @@
+[
+  {
+    "title": "AI Chatbot",
+    "shortDescription": "A conversational AI chatbot for customer support.",
+    "detailedDescription": "This project is an AI-powered chatbot that helps users with FAQs and customer support, built using Python, TensorFlow, and React. It integrates with various platforms and provides real-time responses.",
+    "image": "https://via.placeholder.com/300x300?text=AI+Chatbot",
+    "images": [
+      "https://via.placeholder.com/600x350?text=Chatbot+UI",
+      "https://via.placeholder.com/600x350?text=Chatbot+Backend"
+    ],
+    "technologies": "Python, TensorFlow, React, Node.js",
+    "contribution": "Designed the conversation flow, implemented backend APIs, and integrated the chatbot with the frontend.",
+    "challenges": "Handling ambiguous user queries and ensuring real-time performance.",
+    "impact": "Reduced customer support response time by 60% and improved user satisfaction.",
+    "link": "https://github.com/yourusername/ai-chatbot"
+  },
+  {
+    "title": "Task Manager App",
+    "shortDescription": "A productivity app to manage daily tasks and deadlines.",
+    "detailedDescription": "A full-stack web application for managing tasks, deadlines, and reminders. Built with Node.js, Express, MongoDB, and React. Features include calendar integration and notifications.",
+    "image": "https://via.placeholder.com/300x300?text=Task+Manager",
+    "images": [
+      "https://via.placeholder.com/600x350?text=Task+List",
+      "https://via.placeholder.com/600x350?text=Calendar+View"
+    ],
+    "technologies": "Node.js, Express, MongoDB, React",
+    "contribution": "Developed the backend REST API, implemented authentication, and created the calendar view.",
+    "challenges": "Synchronizing tasks across devices and handling offline mode.",
+    "impact": "Helped 1000+ users organize their work and meet deadlines efficiently.",
+    "link": "https://github.com/yourusername/task-manager"
+  },
+  {
+    "title": "Portfolio Website",
+    "shortDescription": "A personal portfolio website to showcase my work.",
+    "detailedDescription": "A responsive portfolio website built with React and Bootstrap to display my projects, resume, and contact information. Includes a blog section and dynamic project gallery.",
+    "image": "https://via.placeholder.com/300x300?text=Portfolio+Website",
+    "images": [
+      "https://via.placeholder.com/600x350?text=Home+Page",
+      "https://via.placeholder.com/600x350?text=Projects+Section"
+    ],
+    "technologies": "React, Bootstrap, Netlify",
+    "contribution": "Designed the UI/UX, implemented responsive layouts, and set up continuous deployment.",
+    "challenges": "Optimizing for mobile devices and SEO.",
+    "impact": "Increased professional visibility and received positive feedback from recruiters.",
+    "link": "https://github.com/yourusername/portfolio"
+  }
+]
