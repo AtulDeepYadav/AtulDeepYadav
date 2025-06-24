@@ -76,7 +76,7 @@ const Body = ({ darkMode, setPage }) => {
       <section id="projects" className="mb-5">
         <div className={`card shadow border-0 ${darkMode ? "bg-secondary text-white" : ""}`}>
           <div className="card-body">
-            <h2 className="fw-bold mb-4 text-center">Projects</h2>
+            <h2 className="fw-bold mb-4">Projects</h2>
             <Projectslider darkMode={darkMode} />
             <div className="d-flex justify-content-center mt-3">
               <button
@@ -118,7 +118,7 @@ const Body = ({ darkMode, setPage }) => {
       <section id="gallery" className="mb-5 ">
         <div className={`card shadow border-0 py-2 ${darkMode ? "bg-secondary text-white" : ""}`}>
           <div className="card-body">
-            <h2 className="fw-bold mb-3 text-center">Gallery</h2>
+            <h2 className="fw-bold mb-3">Gallery</h2>
             <Slider {...gallerySliderSettings}>
               {galleryImages.map((img, idx) => (
                 <div key={idx} className="px-3">

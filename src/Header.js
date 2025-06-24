@@ -15,7 +15,11 @@ const Header = ({ darkMode, setDarkMode, setPage }) => {
             setPage("home");
           }}
         >
-          ADY
+          <img
+            src="/ADY_Logo.png"
+            alt="Logo"
+            style={{ height: 40, width: 100, borderRadius: "10%", objectFit: "cover" }}
+          />
         </a>
         <button
           className="navbar-toggler"
